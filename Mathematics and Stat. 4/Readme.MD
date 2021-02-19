@@ -1,3 +1,4 @@
 Day 1 : [YouTube](https://www.youtube.com/watch?v=lgBj6ZtkFv8) | [Note](https://github.com/UEMK-CS-2019/Classes-YT-link/blob/main/Mathematics%20and%20Stat.%204/Notes/NM%20Intro%20(CS).pdf) </br>
 Day 2 : [YouTube](https://www.youtube.com/watch?v=ymv5Bs5462k) | [Note](https://github.com/UEMK-CS-2019/Classes-YT-link/blob/main/Mathematics%20and%20Stat.%204/Notes/Regula%20Falsi%20Method.pdf)</br>
-Day 3 : [YouTube](https://www.youtube.com/watch?v=1YELCKd66t4) | [Note]()
+Day 3 : [YouTube](https://www.youtube.com/watch?v=1YELCKd66t4) | [Note]()</br>
+Day 4 : [YouTube]() | [Note] : [Gauss Elimination](https://github.com/UEMK-CS-2019/Classes-YT-link/blob/main/Mathematics%20and%20Stat.%204/Notes/1.%20GAUSS%20ELIMINATION.pdf) [LU](https://github.com/UEMK-CS-2019/Classes-YT-link/blob/main/Mathematics%20and%20Stat.%204/Notes/LU.pdf) [Gauss seidal](https://github.com/UEMK-CS-2019/Classes-YT-link/blob/main/Mathematics%20and%20Stat.%204/Notes/Gauss%20seidal.pdf)</br> 
