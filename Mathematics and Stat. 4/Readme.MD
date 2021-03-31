@@ -5,3 +5,4 @@ Day 4 : [YouTube](https://www.youtube.com/watch?v=1YELCKd66t4) | Note : [Gauss E
 Day 5 : [YouTube](https://www.youtube.com/watch?v=5rHlbpO0dSY) | Note : [Numerical Intigration](https://github.com/UEMK-CS-2019/Classes-YT-link/blob/main/Mathematics%20and%20Stat.%204/Notes/Numerical%20Integration%20(CS2).pdf) | [Euler's Method](https://github.com/UEMK-CS-2019/Classes-YT-link/blob/main/Mathematics%20and%20Stat.%204/Notes/Euler's%20Method.pdf)</br>
 Day 6 : [YouTube]() | Note : </br>
 Day 7 : [YouTube](https://www.youtube.com/watch?v=sqjCUKyOWgI) | Note : [BIVARIATE DISTRIBUTION]()</br>
+Day 8 : [YouTube](https://www.youtube.com/watch?v=3287KecmiRE) | Note : []()</br>
