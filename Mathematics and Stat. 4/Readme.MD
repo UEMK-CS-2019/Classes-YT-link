@@ -6,4 +6,4 @@ Day 5 : [YouTube](https://www.youtube.com/watch?v=5rHlbpO0dSY) | Note : [Numeric
 Day 6 : [YouTube](https://www.youtube.com/watch?v=zAEkH7ak8Io) | Note : [Interpolation](https://github.com/UEMK-CS-2019/Classes-YT-link/blob/main/Mathematics%20and%20Stat.%204/Notes/BSC401_MISSING%20TERMS_INTERPOLATION.pdf)</br>
 Day 7 : [YouTube](https://www.youtube.com/watch?v=sqjCUKyOWgI) | Note : [BIVARIATE DISTRIBUTION]()</br>
 Day 8 : [YouTube](https://www.youtube.com/watch?v=3287KecmiRE) | Note : []()</br>
-Day 9 : [FreeConferenceCall]() | Note : [I don't know](https://join.freeconferencecall.com/doyelsarkar)</br>
+Day 9 : [FreeConferenceCall]() | Note : [I don't know](https://join.freeconferencecall.com/doyelsarkar)</br> 
