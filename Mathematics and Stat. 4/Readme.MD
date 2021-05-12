@@ -7,3 +7,5 @@ Day 6 : [YouTube](https://www.youtube.com/watch?v=zAEkH7ak8Io) | Note : [Interpo
 Day 7 : [YouTube](https://www.youtube.com/watch?v=sqjCUKyOWgI) | Note : [BIVARIATE DISTRIBUTION]()</br>
 Day 8 : [YouTube](https://www.youtube.com/watch?v=3287KecmiRE) | Note : []()</br>
 Day 9 : [FreeConferenceCall]() | Note : [I don't know](https://join.freeconferencecall.com/doyelsarkar)</br> 
+
+Day 12/5: [YouTube](https://www.youtube.com/watch?v=yQACIwoIZMo)</br>
